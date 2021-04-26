@@ -18,7 +18,7 @@ int			ft_atoi(const char *str)
 	 * string. In order to be able to compensate for an incredibly long string
 	 * we use an unsigned int to be able to use its extended positive range it
 	 * has over a signed int. We will set all of them to 0 except for our sign
-	 * which we set at 1 to use based based on the appearance of a negative
+	 * which we set at 1 to use based on the appearance of a negative
 	 * symbol in our string*/
 	long			res;
 	long			sign;
