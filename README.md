@@ -17,12 +17,12 @@ As you can see from the [Project instructions][1], there are 4 sections:
 
 Libc functions | Additional functions |
 :----------- | :-----------: | :-----------:|
-memset		| ft_memalloc	| ft_lstnew	
-bzero		| ft_memdel		| ft_lstdelone 
-memcpy		| ft_strnew		| ft_lstdel	   
-memccpy		| ft_strdel		| ft_lstadd		
-memmove		| ft_strclr		| ft_lstiter	   
-memchr		| ft_striter	| ft_lstmap		
+memset		| ft_memalloc	| ft_lstnew	 |
+bzero		| ft_memdel		| ft_lstdelone |
+memcpy		| ft_strnew		| ft_lstdel	 | 
+memccpy		| ft_strdel		| ft_lstadd	 |	
+memmove		| ft_strclr		| ft_lstiter |	   
+memchr		| ft_striter	| ft_lstmap	 |
 memcmp		| ft_striteri	|		
 strlen		| ft_strmap		|			
 strdup		| ft_strmapi	|			
