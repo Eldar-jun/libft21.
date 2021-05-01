@@ -16,7 +16,7 @@ As you can see from the [Project instructions][1], there are 4 sections:
 4.  **Personal Functions:** Functions I believe will be useful later.
 
 Libc functions | Additional functions |
-:----------- | :-----------: | :-----------:
+:----------- | :-----------: | :-----------:|
 memset		| ft_memalloc	| ft_lstnew	
 bzero		| ft_memdel		| ft_lstdelone 
 memcpy		| ft_strnew		| ft_lstdel	   
